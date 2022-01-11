@@ -1,0 +1,7 @@
+Id used for finding text block,Contents of text block. Supports markdown formatting.
+loc,text
+intro,"I am a PhD research scholar currently looking for post-doctoral research opportunities. During my PhD years, I investigated the non-visual effects of light on human alertness and higher cognitive functions. I am also experienced in parametric and nonparametric statistical analysis and R language based psychometric analysis."
+,
+,
+Psychometric_data_analysis,"I am proficient in Item Analysis using Classical Test Theory and Modern Item Response Theory,  Latent Structure Analysis (Exploratory Factor Analysis, Confirmatory Factor Analysis),  Structural Equation Modelling and Regression Analysis."
+R Language,"Data visualization, Parametric & non papamateric statictical Analysis, Reproducible Manuscripts"
