@@ -74,15 +74,15 @@ CV %>% print_skill_bars()
 ```
 
 
-Psychometics {#psychometics}
+Research Strength {#Research}
+--------------------------------------------------------------------------------
+Survey Design, Experimental Design, RMarkdown Reports, Data Visualization and Statistical Analysis in R, Reproducibility (Github Version Control), Academic Writing, and R language
+
+Psychometrics {#psychometics}
 --------------------------------------------------------------------------------
 
 Item Analysis (Classical and Modern Item Response Theory), Latent Structure Analysis (Exploratory Factor Analysis, Confirmatory Factor Analysis), Structural Equation Modeling, and Regression.
 
-
-Research Strength {#Research}
---------------------------------------------------------------------------------
-Survey Design, Experimental Design, RMarkdown reports, Data visualization and Statistical Analysis in R, Reproducibility (Github version control)
 
 Main
 ================================================================================
@@ -105,14 +105,12 @@ CV %<>% print_section('education')
 ```
 
 
-
 Research Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
 
 ```{r}
 CV %<>% print_section('research_positions')
 ```
-
 
 
 
@@ -123,15 +121,10 @@ Data Analysis {data-icon=chart-line}
 CV %<>% print_section('data_science')
 ```
 
-
-
 <!-- These breaks just force a new page so section doesnt get cut off -->
 <br>
 <br>
 <br>
-
-
-
 
 
 
@@ -143,6 +136,13 @@ Selected Publications, Posters, and Talks {data-icon=book}
 CV %<>% print_section('academic_articles')
 ```
 
+Manuscript Under Preparation {data-icon=book}
+--------------------------------------------------------------------------------
+
+```{r}
+CV %<>% print_section('academic_articles_underprep')
+
+```
 
 
 ```{r}

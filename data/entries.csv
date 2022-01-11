@@ -6,14 +6,13 @@ education,"B.S., Psychology",University of Dhaka,Department of Psychology,2010,2
 research_positions,PhD Research Fellow,Monash University,School of Medicine and Helath Sciences,2019,2022,Actively designed and conducted experients involving human participants at the Intelligent Lighting Lab,,,TRUE
 industry_positions,,,,,,,,,FALSE
 academic_articles,Effects of Daytime Electric Light Exposure on Human Alertness and Higher Cognitive Functions: A Systematic Review,Frontiers in Psychology,,2021,2022,"Authored with Dr. Vinetha Kalavaly, Dr. Alex and Dr.Shamsul Haque",A systematic review of IIL literature,,TRUE
-academic_articles,Cultural Adaptation and Psychometric Validation of Rotter's I-E Scale,PlosOne,,2021,Submitted,Authored with Dr. Shamsul Haque,,,TRUE
-academic_articles,Cultural Adaptation and Psychometric Validation of Five factor Mindfulness questionnaire I-E Scale,,,2022,Manuscript Under Preparation,Authored with Dr. Shamsul Haque,,,TRUE
-academic_articles,Light Exposure Behavior Assessment (LEBA): Development of a Novel Instrument to Capture light Exposure-Related Behaviours,,,2022,Manuscript Under Preparation,"Authored with Rafael Robert Lazar, Juliette van Duijnhoven, Luc Schlangen,
-Shamsul Haque, Vineetha Kalavally, Celine Vetter, Gena Glickman, Karin Smolders, &
-Manuel Spitschan",,,TRUE
+academic_articles_underprep,Cultural Adaptation and Psychometric Validation of Rotter's I-E Scale,,,2021,Manuscript Under Preparation,Authored with Dr. Shamsul Haque,,,TRUE
+academic_articles_underprep,Cultural Adaptation and Psychometric Validation of Five factor Mindfulness questionnaire I-E Scale,,,2022,Manuscript Under Preparation,Authored with Dr. Shamsul Haque,,,TRUE
+academic_articles_underprep,Light Exposure Behavior Assessment (LEBA): Development of a Novel Instrument to Capture light Exposure-Related Behaviours,,,2022,Manuscript Under Preparation,"Authored with Rafael Robert Lazar, Juliette van Duijnhoven, Luc Schlangen, Shamsul Haque, Vineetha Kalavally, Celine Vetter, Gena Glickman, Karin Smolders, & Manuel Spitschan",,,TRUE
 academic_articles,"Bangla Translation of Comic Book: ""Enlighten Your Body Clock",,,2021,2021,Authored with Colline and Dr. Manuel Spistchan,,,TRUE
 data_science,Parametric and Non-parametric Statistics,,,,,,,,TRUE
 data_science,R Based Data Analysis,,,,,,,,TRUE
 data_science,Data Visualization,,,,,,,,TRUE
-data_science,Reproducible Manuscripts ,,,,,,,,FALSE
-data_science,GitHub Integration,,,,,,,,TRUE
+data_science,Reproducible Manuscripts & GitHub Integration,,,,,,,,TRUE
+academic_articles,Light Exposure Behavior Assessment (LEBA): Development of a Novel Instrument to Capture light Exposure-Related Behaviours,CIE Australia Lightin Research Conference 2020,,,2022,"Authored with Rafael Robert Lazar, Juliette van Duijnhoven, Luc Schlangen, Shamsul Haque, Vineetha Kalavally, Celine Vetter, Gena Glickman, Karin Smolders, & Manuel Spitschan",,,TRUE
+academic_articles,Influence of daytime short-wavelength dominant electric light exposure on human alertness and higher cognitive functions: a cie s026-based pilot study ,CIE Australia Lightin Research Conference 2021,,,2022,"Authored with Dr. Vinetha Kalavaly, Dr. Alex and Dr.Shamsul Haque",,,TRUE
