@@ -99,7 +99,7 @@ Main
 Mushfiqul Anwar Siraji {#title}
 --------------------------------------------------------------------------------
 
-### Applying for The Global Health PhD Fellowship 
+### Applying for the Global Health PhD Fellowship 
 <!-- ### Currently Searching for a Post Doctoral Research Position            -->
 
 ```{r}
