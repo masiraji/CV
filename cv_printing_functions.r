@@ -55,6 +55,10 @@ create_CV_object <-  function(data_location,
   }
   cv$entries_data <-  cv$entries_data%>% 
     subset(in_resume=="TRUE")
+  cv$skills <-  cv$skills%>% 
+    subset(in_resume=="TRUE")
+  cv$text_blocks <-  cv$text_blocks%>% 
+    subset(in_resume=="TRUE")
 
   extract_year <- function(dates){
     date_year <- stringr::str_extract(dates, "(20|19)[0-9]{2}")

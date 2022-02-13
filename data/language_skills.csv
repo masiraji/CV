@@ -1,8 +1,10 @@
-Name of language,Relative numeric level of skill
-skill,level
-Psychometric Data Analysis ,4.5
-R,4
-SPSS,4
-Project Management,4
-Data Visualization in R,4
-Illustrator,3.5
+Name of language,Relative numeric level of skill,
+skill,level,in_resume
+Systematic Literature Review,4.5,TRUE
+Covidence,4.5,TRUE
+Psychometric Data Analysis ,4.5,FALSE
+R,4,TRUE
+SPSS,4,TRUE
+Project Management,4,TRUE
+Data Visualization in R,4,TRUE
+Illustrator,3.5,TRUE

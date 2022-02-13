@@ -99,7 +99,8 @@ Main
 Mushfiqul Anwar Siraji {#title}
 --------------------------------------------------------------------------------
 
-### Currently Searching for a Post Doctoral Research Position           
+### Applying for The Global Health PhD Fellowship 
+<!-- ### Currently Searching for a Post Doctoral Research Position            -->
 
 ```{r}
 # Note the special double pipe so we modify the CV object in place
@@ -162,11 +163,18 @@ CV %<>% print_section('academic_articles_underprep')
 
 ```
 
+<!-- These breaks just force a new page so section doesnt get cut off -->
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 Training {data-icon=chalkboard}
 --------------------------------------------------------------------------------
 
-```{r}
+```{r eval=FALSE, include=FALSE}
 
 CV %<>% print_section('psychometrics')
 
